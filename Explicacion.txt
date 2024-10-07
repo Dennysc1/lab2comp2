@@ -1,0 +1,14 @@
+
+
+
+
+
+
+Grafico de barras
+Barra azul (purchase): Esta barra representa la cantidad de juegos que fueron comprados. Tiene un valor más alto
+cercano a los 120,000 juegos, lo que indica que hay una mayor cantidad de juegos comprados en 
+ con los juegos solo jugados.
+
+Barra amarilla (play): Esta barra representa la cantidad de juegos que solo fueron jugados pero no comprados
+ Es notablemente más baja, cercana a los 70,000 juegos, lo que muestra que hay menos juegos que han sido jugados
+  sin ser comprados.
