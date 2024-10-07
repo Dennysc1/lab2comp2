@@ -1,7 +1,7 @@
-
-
-
-
+Grafico de lineas
+En este grafico se puede apreciar el año de publicacion de difetentes video juegos salidos en PS4 para ver las similitudes entre
+sus publicaciones, como se puede apreciar entre el Call of Duty:WWII y el Fifa 18 comparten el mismo año de lanzamiento
+esta grafica esta limitada a las primeras 6 apariciones del documento dataset.
 
 
 Grafico de barras
@@ -12,3 +12,8 @@ cercano a los 120,000 juegos, lo que indica que hay una mayor cantidad de juegos
 Barra amarilla (play): Esta barra representa la cantidad de juegos que solo fueron jugados pero no comprados
  Es notablemente más baja, cercana a los 70,000 juegos, lo que muestra que hay menos juegos que han sido jugados
   sin ser comprados.
+
+
+Grafico de pastel
+En este grafico lo que se puede apreciar es la diferencia de calorias en forma de porcentaje que poseen las difetentes
+comidas rapidas asi como en el grafico de lineas esta limitado a las pimeras 10 apariciones del dataset.
